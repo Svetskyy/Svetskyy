@@ -1,4 +1,4 @@
-# Hi, I'm Svetlan 👋
+# Hi, I'm Svetlan.
 
 **AI Automation Engineer** based in the Philippines. I build n8n workflows and LLM integrations that run unattended, with validation, error alerts and a human review step for anything the AI is unsure about.
 
