@@ -27,4 +27,6 @@ BS Computer Science, major in Intelligent Systems, **Summa Cum Laude**, De La Sa
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/svetlanm/)
+- [LinkedIn](https://www.linkedin.com/in/svetlanm/)
+- [Upwork](https://www.upwork.com/freelancers/~010c7e4c5e1f1fec3d)
+- [OnlineJobs.ph](https://www.onlinejobs.ph/jobseekers/info/1134618)
